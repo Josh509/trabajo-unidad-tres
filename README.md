@@ -2,7 +2,9 @@
 ***
 ## Sobre el proyecto
 Este proyecto tiene como idea, hacer una aplicación para la gestión de un proyecto, para permitir una comunicación directa, recolecta información en terreno y genera reportes al instante, acelerar del flujo de información, seguimiento, asignación de tarea, Inventario de materiales, etc. 
-Por Ahorra tenemos solamente la cascara, pero el resultado esperado es algo así.
+Por Ahorra tenemos solamente la cascara, pero el resultado esperado es algo así:
+
+[![mockups de la App](https://drive.google.com/file/d/1GAuYm_l8yud9SYFo50lprCSAxJBjZHyb/view?usp=sharing "mockups de la App")](http://ver  "mockups de la App")
 
 ## Prerrequisitos
 Para trabajar con este proyecto es necesario tener instalada:
