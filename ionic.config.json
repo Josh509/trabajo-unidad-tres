@@ -1,0 +1,7 @@
+{
+  "name": "Inicio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
